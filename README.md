@@ -1,4 +1,4 @@
-# Incorperating-AI-emotions
+# Incorporating-AI-emotions
 Visual imagery along with triggers can develop emotional responses'. 
 smells trigger memories 
 memories trigger a response
